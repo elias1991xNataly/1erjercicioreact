@@ -36,3 +36,33 @@
     transform: rotate(360deg);
   }
 }
+
+.Navbar{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #0070FF;
+  color: #ffffff;
+  align-items: center;
+}
+
+.numbers{
+  display: flex;
+  position: relative;
+  gap: 10px;
+}
+.enunciate{
+  display: flex;
+  border: 1px solid black;
+  margin: 10px;
+}
+
+.btn{
+  background-color:#0070FF ;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 3px;
+  width: 40px;
+  height: 40px;
+  
+}
