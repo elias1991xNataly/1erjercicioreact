@@ -52,8 +52,13 @@
   gap: 10px;
 }
 .enunciate{
+  background-color: #C1E6EC;
+  border-color: #CBE9EF;
+  font-weight: 300;
+  padding: 10px;
+  height: 23px;
   display: flex;
-  border: 1px solid black;
+  justify-content: flex-start;
   margin: 10px;
 }
 
@@ -62,7 +67,7 @@
   color: #FFFFFF;
   border: none;
   border-radius: 3px;
-  width: 40px;
+  width: 70px;
   height: 40px;
   
 }
